@@ -1,0 +1,8 @@
+{
+  "label": "POST requests",
+  "position": 7,
+  "link": {
+    "type": "generated-index",
+    "description": "POST es un metodo que permite enviar informacion entre dos paginas o documentos .php o .html por medio de formularios html y cabe destacar que lo que hace unico al metodo post para el envio de datos o informacion es que dicho envio se hace oculto es decir nunca va a ver el usuario como es que se envia esta informacion, por que el envio se hace internamente invisible al usuario. y tampoco podra editarla una ves envie un formulario html."
+  }
+}

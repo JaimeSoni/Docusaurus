@@ -1,0 +1,8 @@
+{
+  "label": "Promesas",
+  "position": 2,
+  "link": {
+    "type": "generated-index",
+    "description": "Una promesa es un proxy para un valor que puede no conocerse al momento de su creación. Permite asociar controladores con el resultado exitoso o el motivo de falla de una operación asíncrona. Esto hace que los métodos asíncronos devuelvan promesas, en lugar de valores inmediatos, proporcionando el resultado en el futuro."
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "label": "Promesas.race",
+  "position": 4,
+  "link": {
+    "type": "generated-index",
+    "description": "Promise.race es un método en JavaScript que permite manejar múltiples promesas y devuelve una nueva promesa que se resuelve o se rechaza tan pronto como una de las promesas en el iterable se resuelve o se rechaza."
+  }
+}

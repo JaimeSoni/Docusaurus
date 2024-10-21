@@ -1,0 +1,8 @@
+{
+  "label": "Promesas en Cadena",
+  "position": 2,
+  "link": {
+    "type": "generated-index",
+    "description": "Las promesas en cadena en JavaScript son una técnica para manejar operaciones asíncronas de manera más legible y estructurada. En lugar de anidar múltiples callbacks, se utilizan promesas que pueden encadenarse unas con otras. Esto mejora la claridad del código y facilita la gestión de errores."
+  }
+}

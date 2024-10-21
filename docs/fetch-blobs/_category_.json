@@ -1,0 +1,8 @@
+{
+  "label": "Fetch de Blobs",
+  "position": 8,
+  "link": {
+    "type": "generated-index",
+    "description": "Fetch API también permite trabajar con blobs, que son objetos que representan datos en forma de archivo binario. Un blob puede contener datos de diferentes tipos, como imágenes, audio, video, y otros formatos de archivo. Cuando se utiliza fetch para obtener un recurso que se espera que sea un blob, puedes trabajar con esos datos de manera eficiente."
+  }
+}
